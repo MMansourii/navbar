@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/navbar/static/css/main.d1743f3b.chunk.css",
+    "main.js": "/github.io/navbar/static/js/main.d0dad195.chunk.js",
+    "main.js.map": "/github.io/navbar/static/js/main.d0dad195.chunk.js.map",
+    "runtime-main.js": "/github.io/navbar/static/js/runtime-main.2f7855cd.js",
+    "runtime-main.js.map": "/github.io/navbar/static/js/runtime-main.2f7855cd.js.map",
+    "static/js/2.41d20619.chunk.js": "/github.io/navbar/static/js/2.41d20619.chunk.js",
+    "static/js/2.41d20619.chunk.js.map": "/github.io/navbar/static/js/2.41d20619.chunk.js.map",
+    "index.html": "/github.io/navbar/index.html",
+    "precache-manifest.f78f1cf106dd86ca6511efe04ae6adf4.js": "/github.io/navbar/precache-manifest.f78f1cf106dd86ca6511efe04ae6adf4.js",
+    "service-worker.js": "/github.io/navbar/service-worker.js",
+    "static/css/main.d1743f3b.chunk.css.map": "/github.io/navbar/static/css/main.d1743f3b.chunk.css.map",
+    "static/js/2.41d20619.chunk.js.LICENSE.txt": "/github.io/navbar/static/js/2.41d20619.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/navbar/static/media/logo.2b686f2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f7855cd.js",
+    "static/js/2.41d20619.chunk.js",
+    "static/css/main.d1743f3b.chunk.css",
+    "static/js/main.d0dad195.chunk.js"
+  ]
+}
